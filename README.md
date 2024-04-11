@@ -1,7 +1,7 @@
 # child_BMI_project
 The objective of this project was to analyze the average BMI of children and teens aged 5-19 among urban and rural populations across the world. The data featured was collected over a period of 30 years (1990-2020) and includes measures from around 200 countries/territories. BMI measurements were also divided by sex (boy and girl). The main questions for discussion are:
 
-1.  Is there a significant difference between mean BMI among urban and rural population?
+1.  Is there a significant difference between mean BMI among urban and rural populations?
 2.  Is there a significant difference between mean BMI and GDP?  (In other words, do more developed countries have a significantly different mean BMI than less developed countries?)
 3.   Is there a significant difference between mean BMI and geographical region?
 4.    Is there a relationship between mean BMI and age?
